@@ -1,0 +1,10 @@
+{
+  "realm": "example1",
+  "auth-server-url": "http://192.168.1.80:8100/",
+  "ssl-required": "external",
+  "resource": "example-app1",
+  "credentials": {
+    "secret": "0cpv7BITNWghKnUvINoWnKzGof2OptVL"
+  },
+  "confidential-port": 0
+}
