@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-js-exmaple",
+  "name": "example-keycloak-js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
